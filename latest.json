@@ -1,1 +1,6 @@
-{}
+{
+  "versionCode": 24,
+  "versionName": "3.2",
+  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.2/mwafk-3.2.apk",
+  "notes": "Screenshots now cap themselves at 500 MB, and the app can update itself"
+}
