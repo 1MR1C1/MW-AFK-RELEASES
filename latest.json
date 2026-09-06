@@ -1,6 +1,6 @@
 {
-  "versionCode": 24,
-  "versionName": "3.2",
-  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.2/mwafk-3.2.apk",
-  "notes": "Screenshots now cap themselves at 500 MB, and the app can update itself"
+  "versionCode": 25,
+  "versionName": "3.3",
+  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.3/mwafk-3.3.apk",
+  "notes": "Trim the screenshot album as soon as a run starts, not just after a save"
 }
