@@ -1,6 +1,6 @@
 {
-  "versionCode": 25,
-  "versionName": "3.3",
-  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.3/mwafk-3.3.apk",
-  "notes": "Trim the screenshot album as soon as a run starts, not just after a save"
+  "versionCode": 26,
+  "versionName": "3.4",
+  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.4/mwafk-3.4.apk",
+  "notes": "Tap Screenshots to send the newest frames off the phone - no cable needed"
 }
