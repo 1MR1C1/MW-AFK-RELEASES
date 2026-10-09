@@ -1,6 +1,6 @@
 {
-  "versionCode": 28,
-  "versionName": "3.6",
-  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.6/mwafk-3.6.apk",
-  "notes": "Recognise the new offline Escort battle mode"
+  "versionCode": 29,
+  "versionName": "3.7",
+  "apk": "https://github.com/1MR1C1/MW-AFK-RELEASES/releases/download/v3.7/mwafk-3.7.apk",
+  "notes": "Helicopter relaunches during a battle, adverts clear faster, money figures removed"
 }
